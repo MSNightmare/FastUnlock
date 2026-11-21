@@ -36,3 +36,5 @@ As respectively shown in the demo video,
 Now I didn't show the full code execution demo because I don't really have a USB stick but I already did this enough times to know what happens next, your next step is to plugin a USB stick, as soon as you do, narrator will focus on explorer showing your mounted storage content and you can just navigate with the same button combination (CAPS LOCK + Arrow keys/Enter/Space), if you do everything properly the binary in your USB stick will be executed in the context of "WsiAccount"
 
 I have not checked other windows versions so I am not really sure if this might work on windows 10.
+
+Edit : I bought a USB stick, it works.
