@@ -3,7 +3,7 @@ FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability
 
 [![FastUnlock](https://i3.ytimg.com/vi/6BKsdUtc6bg/hqdefault.jpg)](https://www.youtube.com/watch?v=6BKsdUtc6bg)
 
-The vulnerability exist in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing bitlocker and executing code in the context of the lockscreen account "WsiAccount"
+The vulnerability exists in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing bitlocker and executing code in the context of the lockscreen account "WsiAccount"
 
 It took a total of 5 minutes from finding this to breaching a fully encrypted bitlocker machine with Windows 11 26H2 November Patch installed, an issue caused by total negligence from Microsoft's side... The vulnerability seems to be extremely consistent in every machine I tested it in, in other words, if you know how to control narrator in the background properly or just press the correct combination of buttons, you will get code execution in the target machine as well.
 
