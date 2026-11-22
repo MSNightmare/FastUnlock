@@ -13,7 +13,7 @@ In the process of giving narrator a new look, Microsoft forgot to make sure that
 Unlike the previous lockscreen bypass bugs I found in the past (by example ZDI-21-1053), this one is extremely convenient to use, when you click "I forgot my PIN" (or password or whatever), 
 <img width="2560" height="1600" alt="vlcsnap-2026-11-19-14h26m59s446" src="https://github.com/user-attachments/assets/a1c28b48-b83a-4b75-b996-fbdfa395743d" />
 
-As soon as you the Microsoft account window prompts you for an action to reset the account, press Win+U and click on narrator,
+As soon as the Microsoft account window prompts you for an action to reset the account, press Win+U and click on narrator,
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/78cfefb9-4490-4a2b-9160-454daeef15f9" />
 
 The second you enable narrator it will immediately focus on a background window owned by narrator, this exact window will be in the background but you would not be able to see it
