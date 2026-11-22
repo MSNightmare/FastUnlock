@@ -25,7 +25,7 @@ As you can see narrator is focused on the "Next" button, to navigate hold the ca
 <img width="2560" height="1600" alt="vlcsnap-2026-11-19-14h37m10s554" src="https://github.com/user-attachments/assets/7b4d2c7a-bc01-4646-b15b-76033b619330" />
 
 
-From now, it's just up to you how you want to to execute code, having focus on settings window allows multiple ways to get code execution in the context of the "WsiAccount" user. For me I prefer navigating to "Bluetooth & Devices" then going for "AutoPlay" then "Removable Drive" and finally "Open folder to view files (File Explorer)"
+From now, it's just up to you how you want to execute code, having focus on settings window allows multiple ways to get code execution in the context of the "WsiAccount" user. For me I prefer navigating to "Bluetooth & Devices" then going for "AutoPlay" then "Removable Drive" and finally "Open folder to view files (File Explorer)"
 
 <img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/4a8629ee-e3bc-465e-ba05-6e0ac1868f8a" />
 
